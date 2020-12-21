@@ -10,7 +10,7 @@
     <artifactId>tripitaka</artifactId>
     <version>2021.01-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>hexagonal-archt-lab</name>
+    <name>tripitaka</name>
     <description>the Buddhist Scriptures</description>
     
 </project>
